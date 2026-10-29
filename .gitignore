@@ -1,0 +1,10 @@
+# Entorno virtual — NO se sube
+venv/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos privados / credenciales
+.env
